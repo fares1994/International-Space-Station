@@ -1,0 +1,13 @@
+body{
+    background: url('ISS.jpg') no-repeat center center fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.tc{
+    color:white;
+    margin-top:8em
+    
+}
