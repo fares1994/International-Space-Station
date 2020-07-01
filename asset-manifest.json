@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.163ec550.chunk.css",
-    "main.js": "/static/js/main.a51da8ec.chunk.js",
-    "main.js.map": "/static/js/main.a51da8ec.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e56ae63b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e56ae63b.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.9c85c9a6.chunk.js": "/static/js/2.9c85c9a6.chunk.js",
-    "static/js/2.9c85c9a6.chunk.js.map": "/static/js/2.9c85c9a6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.33512f40558748571522d7fa09a78bc3.js": "/precache-manifest.33512f40558748571522d7fa09a78bc3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.163ec550.chunk.css.map": "/static/css/main.163ec550.chunk.css.map",
-    "static/js/2.9c85c9a6.chunk.js.LICENSE.txt": "/static/js/2.9c85c9a6.chunk.js.LICENSE.txt",
-    "static/media/app.css": "/static/media/ISS.e2d4fc35.jpg"
+    "main.css": "/International-Space-Station1/static/css/main.08863963.chunk.css",
+    "main.js": "/International-Space-Station1/static/js/main.0a262c31.chunk.js",
+    "main.js.map": "/International-Space-Station1/static/js/main.0a262c31.chunk.js.map",
+    "runtime-main.js": "/International-Space-Station1/static/js/runtime-main.a0a89fc7.js",
+    "runtime-main.js.map": "/International-Space-Station1/static/js/runtime-main.a0a89fc7.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/International-Space-Station1/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9c85c9a6.chunk.js": "/International-Space-Station1/static/js/2.9c85c9a6.chunk.js",
+    "static/js/2.9c85c9a6.chunk.js.map": "/International-Space-Station1/static/js/2.9c85c9a6.chunk.js.map",
+    "index.html": "/International-Space-Station1/index.html",
+    "precache-manifest.74db33f44490d095f9743fadd7961602.js": "/International-Space-Station1/precache-manifest.74db33f44490d095f9743fadd7961602.js",
+    "service-worker.js": "/International-Space-Station1/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/International-Space-Station1/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.08863963.chunk.css.map": "/International-Space-Station1/static/css/main.08863963.chunk.css.map",
+    "static/js/2.9c85c9a6.chunk.js.LICENSE.txt": "/International-Space-Station1/static/js/2.9c85c9a6.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/International-Space-Station1/static/media/ISS.e2d4fc35.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e56ae63b.js",
+    "static/js/runtime-main.a0a89fc7.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.9c85c9a6.chunk.js",
-    "static/css/main.163ec550.chunk.css",
-    "static/js/main.a51da8ec.chunk.js"
+    "static/css/main.08863963.chunk.css",
+    "static/js/main.0a262c31.chunk.js"
   ]
 }
