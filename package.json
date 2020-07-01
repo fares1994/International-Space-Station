@@ -1,5 +1,6 @@
 {
   "name": "international-space-station",
+  "homepage": "https://fares1994.github.io/International-Space-Station1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,8 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "homepage": "https://fares1994.github.io/International-Space-Station1"
+    "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": "react-app"
